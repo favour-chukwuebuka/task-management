@@ -1,0 +1,145 @@
+.app {
+    padding: 30px;
+    background: white;
+}
+.todo {
+    height: 15px;
+}
+.taskmanagementapp {
+    font-size: 20px;
+    position: relative;
+    left: 35px;
+    top: 13px;
+}
+#container {
+    border: 1px solid silver;
+    height: 550px;
+    width: 900px;
+    margin: 5px 216px;
+}
+#input {
+    width: 250px;
+    height: 35px;
+    position: relative;
+    left: 40px;
+    top: 100px;
+    border: 2px solid darkmagenta;
+}
+button {
+    position: relative;
+    border: none;
+    background: white;
+    left: 6px;
+    color: red;
+    text-decoration: underline;
+}
+
+.add {
+ position: relative;
+ left: 600px;
+ top: -22px;
+}
+
+.tasktime {
+ position: relative;
+ left: 325px;
+ top: 43px;
+}
+.tasktitle {
+ position: relative;
+ top: 127px;
+ left: 42px;
+}
+.taskhead {
+    width: 500px;
+    position: relative;
+    left: 10px;
+}
+.taskimeRequired {
+    position: relative;
+    left: 30px;
+    width: 250px;
+
+}
+
+.taskaction {
+    position: relative;
+    left: 5px;
+    width: 70px;
+
+}
+
+.todolist {
+        font-size: 15px;
+        position: relative;
+        left: 42px;
+        top: 250px;
+        font-weight: bold;
+}
+
+#todotitle {
+    position: relative;
+    left: 13px;
+    top: 5px;
+}
+#todotime {
+    position: relative;
+    left: 31px;
+    top: 5px;
+}
+.totaltask {
+ position: relative;
+ top: 20px;
+ border: 2px solid silver;
+ text-align: center;
+ width: 210px;
+ margin: 0px 35px;
+ height: 70px;
+}
+
+#totaldays {
+ position: relative;
+ bottom: 50px;
+ text-align: center;
+ border: 2px solid silver;
+ width: 210px;
+ margin: 0px 290px;
+ height: 70px;
+}
+.totalhours {
+    position: relative;
+    top: -30px;
+    width: 210px;
+    border: 2px solid silver;
+    height: 70px;
+    text-align: center;
+    margin: -90px 550px;
+}
+
+
+table thead th  {
+    border: 2px solid  silver;
+}
+table {
+    border-collapse: collapse;
+}
+#tablebody  {
+ margin: 40px;
+}
+
+
+table thead tr td  {
+    border: 2px solid  silver;
+}
+
+.totaldays24 {
+    font-weight: bold;
+}
+.totalhours24 {
+    font-weight: bold;
+
+}
+
+#length {
+    font-weight: bold;
+}
